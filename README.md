@@ -8,10 +8,13 @@ Creating a Basic Windows Service in C#
 
 https://www.codeproject.com/Articles/14353/Creating-a-Basic-Windows-Service-in-C
 
-Install```
+## Install
+```
 "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe" "C:\WinServiceDemo.exe"
 ```
-Uninstall```
+
+## Uninstall
+```
 "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe" -u "C:\WinServiceDemo.exe"
 ```
 
