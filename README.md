@@ -8,6 +8,13 @@ Creating a Basic Windows Service in C#
 
 https://www.codeproject.com/Articles/14353/Creating-a-Basic-Windows-Service-in-C
 
+Install```
+"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe" "C:\WinServiceDemo.exe"
+```
+Uninstall```
+"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe" -u "C:\WinServiceDemo.exe"
+```
+
 # Create a Windows Service in C# using Visual Studio
 
 Quick tutorial explaining how to create and configure a custom Windows Service in C# with Visual Studio 2019
