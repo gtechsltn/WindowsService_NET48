@@ -16,12 +16,14 @@ https://www.c-sharpcorner.com/UploadFile/8f2b4a/how-to-installuninstall-net-wind
 
 ## Install
 ```
-"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe" "C:\WinServiceDemo.exe"
+cd "C:\Windows\Microsoft.NET\Framework64\v4.0.30319"
+InstallUtil -i "D:\gtechsltn\WindowsService_NET48\zip\WindowsService.NET.exe"
 ```
 
 ## Uninstall
 ```
-"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\installutil.exe" -u "C:\WinServiceDemo.exe"
+cd "C:\Windows\Microsoft.NET\Framework64\v4.0.30319"
+InstallUtil -u "D:\gtechsltn\WindowsService_NET48\zip\WindowsService.NET.exe"
 ```
 
 # Create a Windows Service in C# using Visual Studio
