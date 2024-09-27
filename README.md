@@ -1,5 +1,13 @@
 # Windows Service in .NET Framework 4.8
 
+Scheduler in .NET (C#)
+
+https://docs.google.com/document/d/14HVwuakWWFr_bCE5JcSiN8xM76-6y3fEWGsP32IrGas
+
+Fluent in .NET (C#)
+
+https://docs.google.com/document/d/1z5dk1jaOTWTSFqTWC68EnUFY0WhpBP5oe5ynJs9D7oY
+
 Create A Windows Service In C#
 
 https://www.c-sharpcorner.com/article/create-windows-services-in-c-sharp/
@@ -7,6 +15,10 @@ https://www.c-sharpcorner.com/article/create-windows-services-in-c-sharp/
 Creating a simple Windows Service
 
 https://www.codeproject.com/Articles/106742/Creating-a-simple-Windows-Service
+
+Simple Windows Service Sample
+
+https://www.codeproject.com/Articles/3990/Simple-Windows-Service-Sample
 
 Creating a Basic Windows Service in C#
 
